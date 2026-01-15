@@ -1,0 +1,23 @@
+# --- Deny-all by default ---
+*
+
+# --- whitelist all directories at every depth
+!**/
+# --- but explicitly ignore this folder that is created by Pycharm IDE
+.idea/
+
+# --- whitelist repo control files ---
+!/.gitignore
+!README.md
+!LICENSE
+!LICENSE-CODE
+!.github/
+
+# --- whitelist config files ---
+!index.html
+!environment.yml
+!.env.example
+
+# --- whitelist public course content ---
+!syllabus.pdf
+!notes.pdf
