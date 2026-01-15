@@ -4,9 +4,10 @@
 
 This is a README file for the Github repository for the course
 FIN 723A (Investments) at Emory University taught by [William Mann](https://sites.google.com/site/williamgilesmann/).
-Not much to see here because this is a theory course.
+Not much to see here, because this is a theory course.
 The only meaningful content is in the syllabus and the course notes.
-Eventually I may create a richer landing page here for that content, but for you can find the links to those documents from my website.
+Eventually I may create a richer landing page here for that content.
+For now, you can find the links to those documents from my website.
 
 ---
 
