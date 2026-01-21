@@ -1,5 +1,5 @@
 # Corporate finance theory (FIN 723A): Course repository
-### [William Mann](https://sites.google.com/site/williamgilesmann/), Goizueta Business School, Emory University
+### [William Mann](https://wgmann.github.io), Goizueta Business School, Emory University
 
 ## Overview
 
